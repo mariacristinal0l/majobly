@@ -1,1 +1,1 @@
-# majobly
+# majobly.io
