@@ -1,1 +1,1 @@
-# majobly.io
+# majobly.github.io
